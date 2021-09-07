@@ -9,25 +9,25 @@ de notre économie et de sortir d'une logique technologique hyper
 connectée, pour aller vers des technologies plus sobres en ressources,
 plus durables et recyclables. De nouveaux imaginaires sont en train
 d'émerger, de nouvelles visions de la société deviennent désirables,
-situées quelque part entre la toute-puissance technologique et l'âge de
+situées quelque part entre d'un coté la toute-puissance technologique et de l'autre l'âge de
 pierre. De leur côté, les jeunes ingénieurs se mobilisent, allant
 parfois jusqu\'à repenser leur futur métier et se détourner de
 trajectoires professionnelles largement souhaitées il y a encore
 seulement quelques années. Cette mobilisation se concrétise par exemple
 par l'importance du Manifeste pour un réveil écologique, la
-fréquentation des cours de JM Jancovici en accès libre le développement
+fréquentation des cours de JM Jancovici en accès libre, le développement
 du mouvement Ingénieurs Engagés et celui des Shifters, le développement
 de la Fresque du climat (mais aussi de la mobilité, de la biodiversité,
-de la renaissance, .. ou encore le refus de prendre l'avion pour aller
+de la renaissance, ..) ou encore le refus de prendre l'avion pour aller
 en stage.
 
 Ce mini projet propose à un groupe de jeunes étudiants en début de
 parcours ingénieur de mener une réflexion sur ce mouvement dont, à des
 degrés divers, ils sont eux-mêmes acteurs, et d\'apporter des éléments
-d'identification de sa dynamique. Nous les invitons à se pencher par
+permettant de caractériser sa dynamique. Ils serotn invités à se pencher par
 exemple sur l'évolution de leur rapport aux voyages en avion, à
-l'alimentation, au travail en entreprise, \.... Nous les invitons
-également à s'interroger sur leur rapport aux technologies, mais aussi
+l'alimentation, au travail en entreprise, \.... Ou encore
+ à s'interroger sur leur rapport aux technologies, mais aussi
 au vivant et aux ressources naturelles. Pensent-ils que la science
 apportera les solutions aux enjeux climatiques et de biodiversité, ou au
 contraire que nous devons changer notre rapport à la technologie, un peu
@@ -39,7 +39,7 @@ meilleur respect des écosystèmes ?
 Autant de questions qui pourront être explorées par le groupe, à partir
 d'une étude bibliographique, d'une enquête qualitative et quantitative
 auprès d'étudiants et d'alumni ingénieurs, et de l'observation
-d'indicateurs, à déterminer, de cette mobilisation.
+d'indicateurs de cette mobilisation qui seront à imaginer par le groupe.
 
 
 
@@ -54,12 +54,12 @@ Paris)
 
 ## Proposition de bibliographie (à compléter) :
 
-Hors-Série Socialter Low tech (dirigé par P Bihouix)
+Hors-Série Socialter : L'avenir sera Low tech (dirigé par P Bihouix)
 
 Hors-série Socialter : le réveil des imaginaires (dirigé par Alain Damasio)
 
 Articles : Le Monde sur la SALT, Socialter « les cadres se rebiffent » sur les ingés ....
 
-L'âge des low tech, P Bihouix
+L'âge des low tech, P Bihouix, Editions le Seuil
 
 Synthèse de la note de la Fabrique écologique : Vers des technologies sobres et résilientes -- Pourquoi et comment développer l'innovation « low-tech » ? l\'ingénieur face à la transition en cours
