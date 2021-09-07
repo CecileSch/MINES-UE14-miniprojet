@@ -18,7 +18,7 @@ par l'importance du Manifeste pour un réveil écologique, la
 fréquentation des cours de JM Jancovici en accès libre le développement
 du mouvement Ingénieurs Engagés et celui des Shifters, le développement
 de la Fresque du climat (mais aussi de la mobilité, de la biodiversité,
-de la renaissance, .. ou encore le refus de prendre l'avion pour aller
+de la renaissance, ..) ou encore le refus de prendre l'avion pour aller
 en stage.
 
 Ce mini projet propose à un groupe de jeunes étudiants en début de
